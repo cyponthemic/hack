@@ -13,3 +13,4 @@ xcuserdata/
 *.xcworkspace/
 GoogleService-Info.plist
 npm-debug.log
+.idea/workspace.xml
